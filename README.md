@@ -1,3 +1,3 @@
 # PresentationIMADA
 
-Personal template for IMADA presentations
+My own personal template for IMADA presentations. 
