@@ -16,3 +16,15 @@ library(kableExtra)
 library(gridExtra)
 ```
 
+# About staff
+
+
+# Some final words
+
+
+
+---
+
+\pause
+
+\centerline{\Large Mutual information and any other business?}
